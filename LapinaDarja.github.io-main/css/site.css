@@ -1,0 +1,22 @@
+чё*{
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 50px;
+    text-align: center;
+    background-color: rgb(43, 168, 226);
+    color: #fff;
+}
+
+section{
+    min-height: 800px;
+}
+
+.myProjects{
+    margin-top: 30px;
+}
+.myProjects a{
+    color: rgb(7, 113, 28);
+}
